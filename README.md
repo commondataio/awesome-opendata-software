@@ -148,4 +148,4 @@ better way to find and share geospatial data
 * [bdbag](https://github.com/fair-research/bdbag) - The bdbag utilities are a collection of software programs for working with BagIt packages that conform to the BDBag and Bagit/RO profiles.
 * [datalad](https://github.com/datalad/datalad) - DataLad makes data management and data distribution more accessible. To do that, it stands on the shoulders of Git and Git-annex to deliver a decentralized system for data exchange.
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine) -  OpenRefine is a free, open source power tool for working with messy data and improving it
-* 
+ 

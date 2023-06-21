@@ -52,6 +52,7 @@ better way to find and share geospatial data
 * [Geoportal.rlp](https://github.com/mrmap-community/GeoPortal.rlp) - A complete SDI-Suite for the management of OWS (WMS / WFS, CSW), metadata (iso19139), users, organizations, and licences.
 * [OpenDataCube](https://www.opendatacube.org) - The Open Data Cube (ODC) is an Open Source Geospatial Data Management and Analysis Software project that helps you harness the power of Satellite data.
 * [Esri Geoportal server](https://github.com/Esri/geoportal-server) - Geoportal Server is a standards-based, open source product that enables discovery and use of geospatial resources including data and services. **Not updated anymore**
+* [Stac-server](https://github.com/stac-utils/stac-server) - A Node-based STAC API, AWS Serverless, OpenSearch
 
 #### Commercial
 * [ArcGIS Hub](https://hub.arcgis.com) -an easy-to-configure cloud platform that organizes people, data, and tools to accomplish initiatives and goals. Esri SaaS product
@@ -107,6 +108,8 @@ better way to find and share geospatial data
 * [GeoJSON](https://geojson.org) - GeoJSON is a format for encoding a variety of geographic data structures. In 2015, the Internet Engineering Task Force (IETF), in conjunction with the original specification authors, formed a GeoJSON WG to standardize GeoJSON. RFC 7946 was published in August 2016 and is the new standard specification of the GeoJSON format, replacing the 2008 GeoJSON specification.
 * [ShapeFile](https://doc.arcgis.com/ru/arcgis-online/reference/shapefiles.htm) - A shapefile is an Esri vector data storage format for storing the location, shape, and attributes of geographic features. It is stored as a set of related files and contains one feature class.
 * [ESRI Rest API](https://developers.arcgis.com/rest/) - ArcGIS REST APIs used to query data from ArcGIS Enterprise products
+* [FITS](https://www.loc.gov/preservation/digital/formats/fdd/fdd000317.shtml) - FITS is a file format designed to store, transmit, and manipulate scientific images and associated data. 
+* [GeoPackage](https://www.loc.gov/preservation/digital/formats/fdd/fdd000419.shtml) - Specifications in the family of GeoPackage formats (see GeoPackage_family) specify GeoPackages for exchange and GeoPackage SQLite Extensions that permit direct use, without intermediate format translations, of vector geospatial features and/or tile matrix sets of earth images and raster maps at various scales. 
 
 ### APIs specifications
 * [OpenAPI](https://www.openapis.org) - The OpenAPI Specification is a specification language for HTTP APIs that provides a standardized means to define your API to others.
@@ -145,7 +148,6 @@ better way to find and share geospatial data
 * [ISO 19115:2003](https://www.iso.org/standard/26020.html) - ISO 19115:2003 defines the schema required for describing geographic information and services. It provides information about the identification, the extent, the quality, the spatial and temporal schema, spatial reference, and distribution of digital geographic data.
 
 ## Tools
+* [OpenRefine](https://github.com/OpenRefine/OpenRefine) -  OpenRefine is a free, open source power tool for working with messy data and improving it
 * [bdbag](https://github.com/fair-research/bdbag) - The bdbag utilities are a collection of software programs for working with BagIt packages that conform to the BDBag and Bagit/RO profiles.
 * [datalad](https://github.com/datalad/datalad) - DataLad makes data management and data distribution more accessible. To do that, it stands on the shoulders of Git and Git-annex to deliver a decentralized system for data exchange.
-* [OpenRefine](https://github.com/OpenRefine/OpenRefine) -  OpenRefine is a free, open source power tool for working with messy data and improving it
- 

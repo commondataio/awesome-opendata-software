@@ -18,7 +18,9 @@ This awesome list is a part of Common Data Index project and is derived from Reg
   - [Data containers](#data-containers)
   - [Metadata standards](#metadata-standards)
 * [Tools](#tools)
-
+  - [Data refining](#data-refining)
+  - [Data packaging](#data-packaging)
+  - [Statistics tools](#statistics-tools)
 
 ## Data catalogs
 
@@ -82,6 +84,19 @@ better way to find and share geospatial data
 * [Elsevier Pure](https://www.elsevier.com/solutions/pure) - Pure is a Research Information Management System (RIMS) or Current Research Information System (CRIS). 
 * [Figshare](https://figshare.com) - cloud based open access repository software and service
 * [DataOne Hosted Repo](https://www.dataone.org/hosted-repo/) - online catalog and SaaS hosted repositories
+
+### Microdata catalogs
+
+#### Open source
+
+* [NADA Data Catalog](https://nada.ihsn.org) - An open-source software designed for researchers to browse, search, compare, apply for access and download research data.
+
+### Statistics and indicators databases
+
+#### Open source
+* [OpenSDG](https://open-sdg.org) - Open SDG. An open source, free-to-reuse platform for managing and publishing data and statistics related to the UN Sustainable Development Goals (SDGs).
+* [PxWeb](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/) -  PxWeb is used for publishing statistics in a data base at the web and is since 1 January 2016 free of charge for government agencies and municipalities, international NSI:s and international organisations of statistics. 
+* [.Stat Suite](https://siscc.org/stat-suite/) - The .Stat Suite is a standard-based, componentised, open source platform for the efficient production and dissemination of high-quality statistical data. The product is based on the General Statistical Business Process Model (GSBPM) and the Statistical Data and Metadata eXchange (SDMX) standards. 
 
 ## Standards
 
@@ -148,6 +163,15 @@ better way to find and share geospatial data
 * [ISO 19115:2003](https://www.iso.org/standard/26020.html) - ISO 19115:2003 defines the schema required for describing geographic information and services. It provides information about the identification, the extent, the quality, the spatial and temporal schema, spatial reference, and distribution of digital geographic data.
 
 ## Tools
+
+### Data refining
 * [OpenRefine](https://github.com/OpenRefine/OpenRefine) -  OpenRefine is a free, open source power tool for working with messy data and improving it
+
+### Data packaging
+* [Frictionless Framework](https://github.com/frictionlessdata/framework) -  Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data 
 * [bdbag](https://github.com/fair-research/bdbag) - The bdbag utilities are a collection of software programs for working with BagIt packages that conform to the BDBag and Bagit/RO profiles.
 * [datalad](https://github.com/datalad/datalad) - DataLad makes data management and data distribution more accessible. To do that, it stands on the shoulders of Git and Git-annex to deliver a decentralized system for data exchange.
+
+### Statistics tools 
+* [RSDMX](https://github.com/opensdmx/rsdmx) -  Tools for reading SDMX data and metadata in R 
+

@@ -32,6 +32,7 @@ This awesome list is a part of Common Data Index project and is derived from Reg
 * [JKAN](https://jkan.io) - A lightweight, backend-free open data portal, powered by Jekyll 
 * [uData](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to (open)data by Etalab
 * [Aleph](https://github.com/alephdata/aleph) - Aleph is a tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search.
+* [Magda](https://github.com/magda-io/magda) -  A federated, open-source data catalog for all your big data and small data 
 
 
 #### Commercial
@@ -171,6 +172,9 @@ better way to find and share geospatial data
 * [Frictionless Framework](https://github.com/frictionlessdata/framework) -  Data management framework for Python that provides functionality to describe, extract, validate, and transform tabular data 
 * [bdbag](https://github.com/fair-research/bdbag) - The bdbag utilities are a collection of software programs for working with BagIt packages that conform to the BDBag and Bagit/RO profiles.
 * [datalad](https://github.com/datalad/datalad) - DataLad makes data management and data distribution more accessible. To do that, it stands on the shoulders of Git and Git-annex to deliver a decentralized system for data exchange.
+
+### Data publishing
+* [Datasette](https://github.com/simonw/datasette) -  An open source multi-tool for exploring and publishing data
 
 ### Statistics tools 
 * [RSDMX](https://github.com/opensdmx/rsdmx) -  Tools for reading SDMX data and metadata in R 

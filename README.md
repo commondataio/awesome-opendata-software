@@ -1,7 +1,7 @@
-# Awesome opendata software  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Awesome list of the software tools related to opendata: data catalogs, ingestion tools, data prep tools and so on.
+# Awesome Open Data software  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome list of the software tools related to opendata: open data catalogs, open spatial data, data gingestion tools, data prep tools, metadata standards and so on.
 
-This awesome list is a part of Common Data Index project and is derived from Registry of data portals https://registry.commondata.io
+This awesome list is a part of Common Data Index project and is derived from registry of data portals https://registry.commondata.io
 
 ### Table of contents
 
@@ -27,12 +27,12 @@ This awesome list is a part of Common Data Index project and is derived from Reg
 ### Open data portals
 
 #### Open source
+* [Aleph](https://github.com/alephdata/aleph) - Aleph is a tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search.
 * [CKAN](https://ckan.org) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers hundreds of data portals worldwide. 
 * [DKAN](https://getdkan.com) - DKAN is a community-driven, free and open source open data platform that gives organizations and individuals ultimate freedom to publish and consume structured information.
 * [JKAN](https://jkan.io) - A lightweight, backend-free open data portal, powered by Jekyll 
-* [uData](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to (open)data by Etalab
-* [Aleph](https://github.com/alephdata/aleph) - Aleph is a tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search.
 * [Magda](https://github.com/magda-io/magda) -  A federated, open-source data catalog for all your big data and small data 
+* [uData](https://github.com/opendatateam/udata) - Customizable and skinnable social platform dedicated to (open)data by Etalab
 
 
 #### Commercial
@@ -52,10 +52,14 @@ This awesome list is a part of Common Data Index project and is derived from Reg
 * [Geonode](https://geonode.org) - GeoNode is a web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).
 * [Geoportal.rlp](https://github.com/mrmap-community/GeoPortal.rlp) - A complete SDI-Suite for the management of OWS (WMS / WFS, CSW), metadata (iso19139), users, organizations, and licences.
 * [Geoserver](https://geoserver.org) - GeoServer is an open source server for sharing geospatial data.
+* [LizMap](https://www.lizmap.com/en/) - open source web map application from 3liz
+* [MapBender](https://mapbender.org) - Mapbender is one of the leading open source solutions for creating intuitive and high-performance WebGIS applications.
+* [MapProxy](https://mapproxy.org) - MapProxy is an open source proxy for geospatial data. It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client.
 * [Open Geoportal](http://opengeoportal.io/software/open-geoportal/) - The Open Geoportal (OGP) is a collaboratively developed, open source, federated web application to rapidly discover, preview, and retrieve geospatial data from multiple organizations. 
 * [OpenDataCube](https://www.opendatacube.org) - The Open Data Cube (ODC) is an Open Source Geospatial Data Management and Analysis Software project that helps you harness the power of Satellite data.
 * [Oskari](https://www.oskari.org) - geoportal open source software from Finland Kadaster, incubating in Open Geo 
 * [PyCSW](https://pycsw.org) - Python based CSW server, actively used as standalone service
+* [pygeoapi](https://pygeoapi.io) - pygeoapi is a Python server implementation of the OGC API suite of standards. The project emerged as part of the next generation OGC API efforts in 2018 and provides the capability for organizations to deploy a RESTful OGC API endpoint using OpenAPI, GeoJSON, and HTML. pygeoapi is open source and released under an MIT license. 
 * [Stac-server](https://github.com/stac-utils/stac-server) - A Node-based STAC API, AWS Serverless, OpenSearch
 
 #### Commercial
@@ -77,15 +81,17 @@ This awesome list is a part of Common Data Index project and is derived from Reg
 * [Djehuty](https://github.com/4TUResearchData/djehuty) -  The 4TU.ResearchData repository system 
 * [DSpace](https://dspace.lyrasis.org) - The Software of Choice for Academic, Non-profit & Commercial Organizations Building Open Digital Repositories. Used to create research data repositories too. 
 * [EPrints](https://www.eprints.org) - open source research data repository popular in United Kingdom
+* [ERDDAP](https://upwell.pfeg.noaa.gov/erddap/index.html) - ERDDAP is a data server that gives you a simple, consistent way to download subsets of gridded and tabular scientific datasets in common file formats and make graphs and maps.
 * [Galaxy](https://usegalaxy.org) - open source bioinformatics research management platform
 * [InvenioRDM](https://inveniosoftware.org/products/rdm/) - The turn-key research data management repository
 * [IPT](https://github.com/gbif/ipt) - GBIF Integrated Publishing Toolkit (IPT). Data catalog software integrated into GBIF ecosystem.
 * [Islandora](https://www.islandora.ca) - digital documents open source repository used by universities and libraries, could include datasets
 * [LibreCat](https://github.com/LibreCat/LibreCat) -  A publication management system. Used to create research data repositories too.
-* [MyCoRe](https://www.mycore.de) - MyCoRe (portmanteau of My Content Repository) is an open source repository software framework for building disciplinary or institutional * [MyTardis](https://www.mytardis.org) - MYTARDIS: Research data management for instrument dataj
-repositories, digital archives, digital libraries, and scientific journals.
+* [MyCoRe](https://www.mycore.de) - MyCoRe (portmanteau of My Content Repository) is an open source repository software framework for building disciplinary or institutional 
+* [MyTardis](https://www.mytardis.org) - MYTARDIS: Research data management for instrument data repositories, digital archives, digital libraries, and scientific journals.
 * [NYU Data catalog](https://github.com/nyuhsl/data-catalog) - The NYU Data Catalog facilitates researchers’ access to large datasets available either publicly or through institutional or individual licensing. It also includes descriptions of internally-generated research datasets from NYU researchers. 
 * [Samvera](https://samvera.org) - another digital documents open source repository software, actively used by libraries around the world
+* [THREDDS Data Server](https://docs.unidata.ucar.edu/tds/4.6/adminguide/index.html) - The THREDDS Data Server (TDS) is a web server that provides metadata and data access for scientific datasets, using OPeNDAP, OGC WMS and WCS, HTTP, and other remote data access protocols.
 * [Weco](https://github.com/RCOSDP/weko) - Weko3 is a repository software based on invenio3. 
 
 #### Commercial
@@ -103,6 +109,10 @@ repositories, digital archives, digital libraries, and scientific journals.
 #### Open source
 
 * [NADA Data Catalog](https://nada.ihsn.org) - An open-source software designed for researchers to browse, search, compare, apply for access and download research data.
+* [Obiba Mica](https://www.obiba.org/pages/products/mica/) - Mica is a powerful software application used to create data web portals for large-scale epidemiological studies or multiple-study consortia. Mica2 is the successor of Mica.
+
+#### Commercial
+* [Colectica](https://www.colectica.com) - Colectica is the fastest way to design, document, and publish your statistical data and survey research using open data standards.
 
 ### Statistics and indicators databases
 
@@ -143,10 +153,14 @@ repositories, digital archives, digital libraries, and scientific journals.
 * [GeoTIFF](https://www.ogc.org/standard/geotiff/) - This OGC Standard defines the Geographic Tagged Image File Format (GeoTIFF) by specifying requirements and encoding rules for using the Tagged Image File Format (TIFF) for the exchange of georeferenced or geocoded imagery. Open Geospatial Consortium standard. 
 * [GML](https://www.ogc.org/standard/gml/) - The OpenGIS® Geography Markup Language Encoding Standard (GML) The Geography Markup Language (GML) is an XML grammar for expressing geographical features.
 * [KML](https://www.ogc.org/standard/kml/) - KML is an XML language focused on geographic visualization, including annotation of maps and images.
+* [OGC API - Records](https://ogcapi.ogc.org/records/) - OGC API - Records is a multi-part draft specification that offers the capability to create, modify, and query metadata on the Web.
 * [ShapeFile](https://doc.arcgis.com/ru/arcgis-online/reference/shapefiles.htm) - A shapefile is an Esri vector data storage format for storing the location, shape, and attributes of geographic features. It is stored as a set of related files and contains one feature class.
+* [TMS](https://www.ogc.org/standard/tms/) - The OGC Tile Matrix Set standard defines the rules and requirements for a tile matrix set as a way to index space based on a set of regular grids defining a domain (tile matrix) for a limited list of scales in a Coordinate Reference System (CRS) as defined in [OGC 08-015r2] Abstract Specification Topic 2: Spatial Referencing by Coordinates.
 * [WCS](https://www.ogc.org/standard/wcs/) - A Web Coverage Service (WCS) offers multi-dimensional coverage data for access over the Internet. WCS Core specifies a core set of requirements that a WCS implementation must fulfill. Open Geospatial Consortium standard. 
 * [WFS](https://www.ogc.org/standard/wfs/) - The Web Feature Service (WFS) represents a change in the way geographic information is created, modified and exchanged on the Internet. Rather than sharing geographic information at the file level using File Transfer Protocol (FTP), for example, the WFS offers direct fine-grained access to geographic information at the feature and feature property level. Open Geospatial Consortium standard. 
-* [WMS](https://www.ogc.org/standard/wms/) - The OpenGIS® Web Map Service Interface Standard (WMS) provides a simple HTTP interface for requesting geo-registered map images from one or more distributed geospatial databases. Open Geospatial Consortium standard. 
+* [WMS](https://www.ogc.org/standard/wms/) - The OpenGIS Web Map Service Interface Standard (WMS) provides a simple HTTP interface for requesting geo-registered map images from one or more distributed geospatial databases. Open Geospatial Consortium standard. 
+* [WMTS](https://www.ogc.org/standard/wmts/) - OpenGIS Web Map Tile Service Implementation Standard
+* [WPS](https://www.ogc.org/standard/wps/) - The OpenGIS® Web Processing Service (WPS) Interface Standard provides rules for standardizing how inputs and outputs (requests and responses) for geospatial processing services, such as polygon overlay.
 
 ### APIs specifications
 * [OpenAPI](https://www.openapis.org) - The OpenAPI Specification is a specification language for HTTP APIs that provides a standardized means to define your API to others.
@@ -171,11 +185,14 @@ repositories, digital archives, digital libraries, and scientific journals.
 - [ReproZIP](https://www.reprozip.org/) - ReproZip can automatically pack your research along with all necessary data files, libraries, environment variables and options into a self-contained bundle.
 - [RO-CRATE](https://www.researchobject.org/ro-crate/) - RO-Crate is a community effort to establish a lightweight approach to packaging research data with their metadata. It is based on schema.org annotations in JSON-LD, and aims to make best-practice in formal metadata description accessible and practical for use in a wider variety of situations, from an individual researcher working with a folder of data, to large data-intensive computational research environments.
 
+
 ### Metadata standards
 * [ Asset Description Metadata Schema, ADMS](https://ec.europa.eu/isa2/solutions/asset-description-metadata-schema-adms_en/) - metadata management of a European public administration or service and want to explore, (re-)use or share semantic assets (metadata or reference data)
 * [CKAN API](https://docs.ckan.org/en/2.9/api/) - defacto metadata standard for most open data portals
 * [CSVW - CSV on the Web](https://csvw.org) - CSV on the Web (CSVW) standard to add metadata to describe the contents and structure of comma-separated values (CSV) data files
 * [DataCite Metadata Schema](https://schema.datacite.org/) - The DataCite Metadata Schema is a list of core metadata properties chosen for an accurate and consistent identification of a resource for citation and retrieval purposes, along with recommended use instructions.
+* [Dataset Publishing Language](https://developers.google.com/public-data/overview) - Google metadata standard to prepare datasets for the Google Public Data Explorer.
+[DC Packaging Specification](https://dataconservancy.org/software/) - provides protocols for packages to capture not only primary data, but also associated metadata and relationships to other objects (papers, projects, people, etc.) no matter where they are located.
 * [DCAT](https://www.w3.org/TR/vocab-dcat-2/) - DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web. This document defines the schema and provides examples for its use.
 * [DCAT-US](https://resources.data.gov/resources/dcat-us/) - DCAT-US Schema v1.1 (Project Open Data Metadata Schema). The metadata schema specified in this memorandum is based on DCAT, a hierarchical vocabulary specific to datasets. 
 * [DCAT-AP 1.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/11) - The DCAT Application profile for data portals in Europe (DCAT-AP) is a specification based on W3C's Data Catalogue vocabulary (DCAT) for describing public sector datasets in Europe. Version 1.1
@@ -184,9 +201,12 @@ repositories, digital archives, digital libraries, and scientific journals.
 * [DCAT-AP.de](https://www.dcat-ap.de) - DCAT-AP.de is the common German metadata model for the exchange of open administrative data. On this platform you will find the current version of the specification documents, sample files and DCAT-AP.de's own vocabularies.
 * [Dublin Core](https://www.dublincore.org/) - the most common digital objects description standard
 * [EU Vocabularies](https://op.europa.eu/en/web/eu-vocabularies) - European Reference data catalogue
+* [Executable Research Compendum](http://o2r.info/erc-spec/spec/) - An Executable Research Compendium (ERC) is a packaging convention for computational research. 
 * [Google Search. Dataset (Dataset, DataCatalog, DataDownload) structured data](https://developers.google.com/search/docs/appearance/structured-data/dataset) - Google search description on implementation of Schema.org Dataset
 * [INSPIRE](https://inspire.ec.europa.eu/metadata/6541) -  According to Article 5(1) of INSPIRE Directive 2007/2/EC, EU Member States shall ensure that metadata are created for the spatial data sets and services corresponding to the themes listed in Annexes I, II and III, and that those metadata are kept up to date. 
 * [ISO 19115:2003](https://www.iso.org/standard/26020.html) - ISO 19115:2003 defines the schema required for describing geographic information and services. It provides information about the identification, the extent, the quality, the spatial and temporal schema, spatial reference, and distribution of digital geographic data.
+* [Metatab and Metapack](https://www.metatab.org) - Metatab stores metadata in a spreadsheet, alongside data, ensuring that the metadata is easy to create, easy to read, and cannot be separated from the data. Metapack builds data packages with Metatab metadata.
+* [PEP, Portable Encapsulated Projects](https://pep.databio.org/en/latest/) - PEP, or Portable Encapsulated Projects, is a community effort to make sample metadata reusable. PEPs decouple metadata from analysis
 * [Schema.org Dataset](https://schema.org/Dataset) - A body of structured information describing some topic(s) of interest.
 
 ### Additional data standards resources

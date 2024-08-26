@@ -55,6 +55,8 @@ This awesome list is a part of Common Data Index project and is derived from reg
 * [LizMap](https://www.lizmap.com/en/) - open source web map application from 3liz
 * [MapBender](https://mapbender.org) - Mapbender is one of the leading open source solutions for creating intuitive and high-performance WebGIS applications.
 * [MapProxy](https://mapproxy.org) - MapProxy is an open source proxy for geospatial data. It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client.
+* [ncWMS](https://reading-escience-centre.github.io/ncwms/) - ncWMS is a Web Map Service for displaying environmental data.
+* [NextGIS Web](https://nextgis.com/) -  Web GIS framework by NextGIS
 * [Open Geoportal](http://opengeoportal.io/software/open-geoportal/) - The Open Geoportal (OGP) is a collaboratively developed, open source, federated web application to rapidly discover, preview, and retrieve geospatial data from multiple organizations. 
 * [OpenDataCube](https://www.opendatacube.org) - The Open Data Cube (ODC) is an Open Source Geospatial Data Management and Analysis Software project that helps you harness the power of Satellite data.
 * [Oskari](https://www.oskari.org) - geoportal open source software from Finland Kadaster, incubating in Open Geo 
@@ -92,6 +94,7 @@ This awesome list is a part of Common Data Index project and is derived from reg
 * [NYU Data catalog](https://github.com/nyuhsl/data-catalog) - The NYU Data Catalog facilitates researchers’ access to large datasets available either publicly or through institutional or individual licensing. It also includes descriptions of internally-generated research datasets from NYU researchers. 
 * [Samvera](https://samvera.org) - another digital documents open source repository software, actively used by libraries around the world
 * [THREDDS Data Server](https://docs.unidata.ucar.edu/tds/4.6/adminguide/index.html) - The THREDDS Data Server (TDS) is a web server that provides metadata and data access for scientific datasets, using OPeNDAP, OGC WMS and WCS, HTTP, and other remote data access protocols.
+* [Vufind]( https://vufind.org) - VuFind® is a discovery system designed and developed for libraries by libraries. It is also flexible enough to build search interfaces for all kinds of content beyond the library environment.
 * [Weco](https://github.com/RCOSDP/weko) - Weko3 is a repository software based on invenio3. 
 
 #### Commercial
@@ -103,6 +106,7 @@ This awesome list is a part of Common Data Index project and is derived from reg
 * [Esploro](https://exlibrisgroup.com/products/esploro-research-services-platform/) - research outputs management system from Exlibris Group
 * [Figshare](https://figshare.com) - cloud based open access repository software and service
 * [Omega-PSIR](https://www.omegapsir.io) - research management information system from Poland and used by Poland universities
+* [Worktribe](http://worktribe.com) - Worktribe is an cloud-based platform for research management.
 
 ### Microdata catalogs
 
@@ -130,19 +134,21 @@ This awesome list is a part of Common Data Index project and is derived from reg
 #### Open source
 * [Fusion Metadata Registry](https://www.sdmx.io/fmr/) - open source metadata catalog used by European Union authorities and some countries statistical agencies. Open source by request
 
-## Standards
+## Standards                   
 
 ### Common data standards
+* [Apache Parquet](https://parquet.apache.org/) - Apache Parquet is an open source, column-oriented data file format designed for efficient data storage and retrieval. It provides efficient data compression and encoding schemes with enhanced performance to handle complex data in bulk. Parquet is available in multiple languages including Java, C++, Python, etc.... It's still uncommon for open data portals but common for public ML data catalogs.
+* [Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) - The Arrow columnar format includes a language-agnostic in-memory data structure specification, metadata serialization, and a protocol for serialization and generic data transport.
+* [CDF](https://www.loc.gov/preservation/digital/formats/fdd/fdd000226.shtml) - CDF is a conceptual data abstraction for storing, manipulating, and accessing multidimensional data sets. The basic component of CDF is a software programming interface that is a device-independent view of the CDF data model. Common for scientific data.
 * [CSV](https://datatracker.ietf.org/doc/html/rfc4180) -  Common Format and MIME Type for Comma-Separated Values (CSV) Files
-* [XML](https://www.w3.org/XML/) - Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879). Originally designed to meet the challenges of large-scale electronic publishing, XML is also playing an increasingly important role in the exchange of a wide variety of data on the Web and elsewhere.
 * [JSON](https://www.json.org/json-en.html) - JSON (JavaScript Object Notation) is a lightweight data-interchange format.
 * [NDJSON/JSON lines](http://ndjson.org) - NDJSON is a convenient format for storing or streaming structured data that may be processed one record at a time. It works well with unix-style text processing tools and shell pipelines.
+* [NETCDF](https://nsidc.org/data/user-resources/help-center/what-netcdf) - NetCDF (network Common Data Form) is a set of interfaces for array-oriented data access and a freely distributed collection of data access libraries for C, Fortran, C++, Java, and other languages. The netCDF libraries support a machine-independent format for representing scientific data. Common for scientific data.
+* [RDF](https://www.w3.org/RDF/) - The Resource Description Framework (RDF) is a general framework for representing interconnected data on the web. RDF statements are used for describing and exchanging metadata, which enables standardized exchange of data based on relationships.
 * [XLS](https://www.loc.gov/preservation/digital/formats/fdd/fdd000510.shtml) - The Microsoft Excel Binary File format, with the .xls extension and referred to as XLS or MS-XLS, was the default format used for spreadsheets in Excel through Microsoft Office 2003. It is not open data format since it's proprietary, but it's _defacto_ very common.
 * [XLSX](https://www.loc.gov/preservation/digital/formats/fdd/fdd000398.shtml) - The Open Office XML-based spreadsheet format using .xlsx as a file extension has been the default format produced for new documents by versions of Microsoft Excel since Excel 2007. It is not open data format since it's proprietary, but it's _defacto_ very common.
-* [NETCDF](https://nsidc.org/data/user-resources/help-center/what-netcdf) - NetCDF (network Common Data Form) is a set of interfaces for array-oriented data access and a freely distributed collection of data access libraries for C, Fortran, C++, Java, and other languages. The netCDF libraries support a machine-independent format for representing scientific data. Common for scientific data.
-* [CDF](https://www.loc.gov/preservation/digital/formats/fdd/fdd000226.shtml) - CDF is a conceptual data abstraction for storing, manipulating, and accessing multidimensional data sets. The basic component of CDF is a software programming interface that is a device-independent view of the CDF data model. Common for scientific data.
-* [Apache Parquet](https://parquet.apache.org/) - Apache Parquet is an open source, column-oriented data file format designed for efficient data storage and retrieval. It provides efficient data compression and encoding schemes with enhanced performance to handle complex data in bulk. Parquet is available in multiple languages including Java, C++, Python, etc.... It's still uncommon for open data portals but common for public ML data catalogs.
-* [RDF](https://www.w3.org/RDF/) - The Resource Description Framework (RDF) is a general framework for representing interconnected data on the web. RDF statements are used for describing and exchanging metadata, which enables standardized exchange of data based on relationships.
+
+* [XML](https://www.w3.org/XML/) - Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879). Originally designed to meet the challenges of large-scale electronic publishing, XML is also playing an increasingly important role in the exchange of a wide variety of data on the Web and elsewhere.
 
 ### Spatial data standards
 * [CSW](https://www.ogc.org/standard/cat/) - Catalogue services support the ability to publish and search collections of descriptive information (metadata) for data, services, and related information objects. Open Geospatial Consortium standard. 
@@ -187,12 +193,12 @@ This awesome list is a part of Common Data Index project and is derived from reg
 
 
 ### Metadata standards
-* [ Asset Description Metadata Schema, ADMS](https://ec.europa.eu/isa2/solutions/asset-description-metadata-schema-adms_en/) - metadata management of a European public administration or service and want to explore, (re-)use or share semantic assets (metadata or reference data)
+* [Asset Description Metadata Schema, ADMS](https://ec.europa.eu/isa2/solutions/asset-description-metadata-schema-adms_en/) - metadata management of a European public administration or service and want to explore, (re-)use or share semantic assets (metadata or reference data)
 * [CKAN API](https://docs.ckan.org/en/2.9/api/) - defacto metadata standard for most open data portals
 * [CSVW - CSV on the Web](https://csvw.org) - CSV on the Web (CSVW) standard to add metadata to describe the contents and structure of comma-separated values (CSV) data files
 * [DataCite Metadata Schema](https://schema.datacite.org/) - The DataCite Metadata Schema is a list of core metadata properties chosen for an accurate and consistent identification of a resource for citation and retrieval purposes, along with recommended use instructions.
 * [Dataset Publishing Language](https://developers.google.com/public-data/overview) - Google metadata standard to prepare datasets for the Google Public Data Explorer.
-[DC Packaging Specification](https://dataconservancy.org/software/) - provides protocols for packages to capture not only primary data, but also associated metadata and relationships to other objects (papers, projects, people, etc.) no matter where they are located.
+* [DC Packaging Specification](https://dataconservancy.org/software/) - provides protocols for packages to capture not only primary data, but also associated metadata and relationships to other objects (papers, projects, people, etc.) no matter where they are located.
 * [DCAT](https://www.w3.org/TR/vocab-dcat-2/) - DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web. This document defines the schema and provides examples for its use.
 * [DCAT-US](https://resources.data.gov/resources/dcat-us/) - DCAT-US Schema v1.1 (Project Open Data Metadata Schema). The metadata schema specified in this memorandum is based on DCAT, a hierarchical vocabulary specific to datasets. 
 * [DCAT-AP 1.1](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/dcat-application-profile-data-portals-europe/release/11) - The DCAT Application profile for data portals in Europe (DCAT-AP) is a specification based on W3C's Data Catalogue vocabulary (DCAT) for describing public sector datasets in Europe. Version 1.1

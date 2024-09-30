@@ -1,7 +1,7 @@
 # Awesome Open Data software  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome list of the software tools related to opendata: open data catalogs, open spatial data, data gingestion tools, data prep tools, metadata standards and so on.
 
-This awesome list is a part of Common Data Index project and is derived from registry of data portals https://registry.commondata.io
+This awesome list is a part of Common Data Index project and is derived from registry of data portals https://dateno.io/registry
 
 ### Table of contents
 

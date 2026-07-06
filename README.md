@@ -132,6 +132,7 @@ This awesome list is a part of Dateno project and is derived from registry of da
 ### Metadata catalogs
 
 #### Open source
+* [datannur](https://datannur.com) - Open source, lightweight and portable data catalog that runs entirely from a static folder, no server required. Scans files and databases and exports DCAT-AP, GeoDCAT-AP and STAC.
 * [Fusion Metadata Registry](https://www.sdmx.io/fmr/) - open source metadata catalog used by European Union authorities and some countries statistical agencies. Open source by request
 
 ## Standards                   

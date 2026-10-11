@@ -239,4 +239,4 @@ This awesome list is a part of Dateno project and is derived from registry of da
 
 ### Statistics tools 
 * [RSDMX](https://github.com/opensdmx/rsdmx) -  Tools for reading SDMX data and metadata in R 
-
+* [Invokely](https://invokely.ai/) - Hosted REST API and MCP server for official statistics, with a source citation on every figure. Covers U.S. states and counties, EU regions, Spanish municipalities, and World Bank country data; its free plan includes 500 calls per month.

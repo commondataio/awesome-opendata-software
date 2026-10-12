@@ -128,6 +128,7 @@ This awesome list is a part of Dateno project and is derived from registry of da
 #### Commercial
 
 * [PublishMyData](https://pages.tpximpact.com/swirrl) - RDF-based open statistical data product. Acquired by TPX Impact
+* [Invokely](https://invokely.ai/docs) - Hosted service for querying source-cited official statistics; the Free plan includes 500 MCP calls per month, the no-account MCP trial allows 25 calls per day per IP, and REST data queries require Builder, Pro, or prepaid credits.
 
 ### Metadata catalogs
 
@@ -239,4 +240,3 @@ This awesome list is a part of Dateno project and is derived from registry of da
 
 ### Statistics tools 
 * [RSDMX](https://github.com/opensdmx/rsdmx) -  Tools for reading SDMX data and metadata in R 
-

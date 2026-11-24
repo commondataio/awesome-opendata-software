@@ -3,6 +3,14 @@ Awesome list of the software tools related to opendata: open data catalogs, open
 
 This awesome list is a part of Dateno project and is derived from registry of data portals https://dateno.io/registry
 
+> [!WARNING]
+> **Contribution policy**
+> * Pull requests and issues created by AI agents are **not accepted** and will be closed without review.
+> * Commercial products and services are accepted **only after a lengthy review**.
+> * Only pure open source software is reviewed and accepted reasonably fast.
+>
+> See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
 ### Table of contents
 
 * [Data catalogs](#data-catalogs)
